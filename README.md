@@ -8,4 +8,4 @@ Microsoft
 Visual Studio 2015 or new version
 
 # License
-See Mit License 
+check Mit License 

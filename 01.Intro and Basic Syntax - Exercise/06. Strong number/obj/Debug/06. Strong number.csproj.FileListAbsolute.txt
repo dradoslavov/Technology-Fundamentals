@@ -1,0 +1,5 @@
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\06. Strong number\obj\Debug\06. Strong number.csprojResolveAssemblyReference.cache
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\06. Strong number\bin\Debug\_06.Strong_number.exe
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\06. Strong number\bin\Debug\_06.Strong_number.pdb
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\06. Strong number\obj\Debug\_06.Strong_number.exe
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\06. Strong number\obj\Debug\_06.Strong_number.pdb

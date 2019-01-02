@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\03. Vacation\bin\Debug\_03.Vacation.exe
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\03. Vacation\bin\Debug\_03.Vacation.pdb
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\03. Vacation\obj\Debug\03. Vacation.csprojResolveAssemblyReference.cache
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\03. Vacation\obj\Debug\_03.Vacation.exe
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\03. Vacation\obj\Debug\_03.Vacation.pdb
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\03. Vacation\obj\Debug\_03.Vacation.exe
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\03. Vacation\obj\Debug\_03.Vacation.pdb

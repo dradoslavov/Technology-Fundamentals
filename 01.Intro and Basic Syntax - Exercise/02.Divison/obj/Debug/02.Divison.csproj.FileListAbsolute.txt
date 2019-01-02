@@ -1,0 +1,4 @@
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\02.Divison\bin\Debug\02.Divison.exe
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\02.Divison\bin\Debug\02.Divison.pdb
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\02.Divison\obj\Debug\02.Divison.exe
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\02.Divison\obj\Debug\02.Divison.pdb

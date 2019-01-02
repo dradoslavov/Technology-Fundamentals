@@ -1,0 +1,5 @@
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\05. Print and sum\bin\Debug\_05.Print_and_sum.exe
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\05. Print and sum\bin\Debug\_05.Print_and_sum.pdb
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\05. Print and sum\obj\Debug\05. Print and sum.csprojResolveAssemblyReference.cache
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\05. Print and sum\obj\Debug\_05.Print_and_sum.exe
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\05. Print and sum\obj\Debug\_05.Print_and_sum.pdb

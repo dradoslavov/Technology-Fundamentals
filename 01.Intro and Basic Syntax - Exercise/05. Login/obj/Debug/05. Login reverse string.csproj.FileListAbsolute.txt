@@ -1,0 +1,2 @@
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\05. Login\obj\Debug\_05.Login.exe
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\05. Login\obj\Debug\_05.Login.pdb

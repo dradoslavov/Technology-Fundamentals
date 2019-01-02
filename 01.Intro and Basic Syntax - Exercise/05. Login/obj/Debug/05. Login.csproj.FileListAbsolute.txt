@@ -1,0 +1,10 @@
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\05. Login\obj\Debug\05. Login.csprojResolveAssemblyReference.cache
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\05. Login\bin\Debug\_05.Login.exe
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\05. Login\bin\Debug\_05.Login.pdb
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\05. Login\obj\Debug\_05.Login.exe
+D:\C#DifficultExams\tech module\Intro and Basic Syntax - Exercise\05. Login\obj\Debug\_05.Login.pdb
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\05. Login\obj\Debug\_05.Login.exe
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\05. Login\obj\Debug\_05.Login.pdb
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\05. Login\obj\Debug\05. Login.csprojResolveAssemblyReference.cache
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\05. Login\bin\Debug\_05.Login.exe
+D:\C#DifficultExams\tech module\01.Intro and Basic Syntax - Exercise\05. Login\bin\Debug\_05.Login.pdb

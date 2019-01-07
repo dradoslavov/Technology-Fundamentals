@@ -1,0 +1,4 @@
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\02. Chars to String\bin\Debug\_02.Chars_to_String.exe
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\02. Chars to String\bin\Debug\_02.Chars_to_String.pdb
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\02. Chars to String\obj\Debug\_02.Chars_to_String.exe
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\02. Chars to String\obj\Debug\_02.Chars_to_String.pdb

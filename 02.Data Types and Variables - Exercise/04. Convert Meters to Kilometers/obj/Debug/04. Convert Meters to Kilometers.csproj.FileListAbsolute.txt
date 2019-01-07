@@ -1,0 +1,4 @@
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\04. Convert Meters to Kilometers\bin\Debug\_04.Convert_Meters_to_Kilometers.exe
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\04. Convert Meters to Kilometers\bin\Debug\_04.Convert_Meters_to_Kilometers.pdb
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\04. Convert Meters to Kilometers\obj\Debug\_04.Convert_Meters_to_Kilometers.exe
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\04. Convert Meters to Kilometers\obj\Debug\_04.Convert_Meters_to_Kilometers.pdb

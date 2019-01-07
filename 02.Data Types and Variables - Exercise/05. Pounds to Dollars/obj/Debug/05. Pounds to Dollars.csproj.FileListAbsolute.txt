@@ -1,0 +1,4 @@
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\05. Pounds to Dollars\bin\Debug\_05.Pounds_to_Dollars.exe
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\05. Pounds to Dollars\bin\Debug\_05.Pounds_to_Dollars.pdb
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\05. Pounds to Dollars\obj\Debug\_05.Pounds_to_Dollars.exe
+D:\C#DifficultExams\tech module\02.Data Types and Variables - Exercise\05. Pounds to Dollars\obj\Debug\_05.Pounds_to_Dollars.pdb

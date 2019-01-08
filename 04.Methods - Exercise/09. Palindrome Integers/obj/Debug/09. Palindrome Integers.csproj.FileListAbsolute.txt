@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\04.Methods - Exercise\09. Palindrome Integers\bin\Debug\_09.Palindrome_Integers.exe.config
+D:\C#DifficultExams\tech module\04.Methods - Exercise\09. Palindrome Integers\bin\Debug\_09.Palindrome_Integers.exe
+D:\C#DifficultExams\tech module\04.Methods - Exercise\09. Palindrome Integers\bin\Debug\_09.Palindrome_Integers.pdb
+D:\C#DifficultExams\tech module\04.Methods - Exercise\09. Palindrome Integers\obj\Debug\09. Palindrome Integers.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\04.Methods - Exercise\09. Palindrome Integers\obj\Debug\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\04.Methods - Exercise\09. Palindrome Integers\obj\Debug\_09.Palindrome_Integers.exe
+D:\C#DifficultExams\tech module\04.Methods - Exercise\09. Palindrome Integers\obj\Debug\_09.Palindrome_Integers.pdb

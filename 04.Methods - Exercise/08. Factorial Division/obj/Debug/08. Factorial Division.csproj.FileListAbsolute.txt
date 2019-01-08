@@ -1,0 +1,6 @@
+D:\C#DifficultExams\tech module\04.Methods - Exercise\08. Factorial Division\bin\Debug\_08.Factorial_Division.exe.config
+D:\C#DifficultExams\tech module\04.Methods - Exercise\08. Factorial Division\bin\Debug\_08.Factorial_Division.exe
+D:\C#DifficultExams\tech module\04.Methods - Exercise\08. Factorial Division\bin\Debug\_08.Factorial_Division.pdb
+D:\C#DifficultExams\tech module\04.Methods - Exercise\08. Factorial Division\obj\Debug\08. Factorial Division.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\04.Methods - Exercise\08. Factorial Division\obj\Debug\_08.Factorial_Division.exe
+D:\C#DifficultExams\tech module\04.Methods - Exercise\08. Factorial Division\obj\Debug\_08.Factorial_Division.pdb

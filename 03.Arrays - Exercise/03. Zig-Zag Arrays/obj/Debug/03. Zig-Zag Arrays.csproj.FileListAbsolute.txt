@@ -1,0 +1,6 @@
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\_03.Zig_Zag_Arrays.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\_03.Zig_Zag_Arrays.pdb
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\_03.Zig_Zag_Arrays.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\_03.Zig_Zag_Arrays.pdb
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\03. Zig-Zag Arrays.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache

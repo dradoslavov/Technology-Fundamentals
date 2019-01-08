@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\04. Array Rotation\bin\Debug\_04.Array_Rotation.exe.config
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\04. Array Rotation\bin\Debug\_04.Array_Rotation.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\04. Array Rotation\bin\Debug\_04.Array_Rotation.pdb
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\04. Array Rotation\obj\Debug\04. Array Rotation.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\04. Array Rotation\obj\Debug\04. Array Rotation.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\04. Array Rotation\obj\Debug\_04.Array_Rotation.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\04. Array Rotation\obj\Debug\_04.Array_Rotation.pdb

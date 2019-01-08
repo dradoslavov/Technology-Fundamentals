@@ -1,0 +1,11 @@
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.1\01. Train.deps.json
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.1\01. Train.runtimeconfig.json
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.1\01. Train.runtimeconfig.dev.json
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.1\01. Train.dll
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\bin\Debug\netcoreapp2.1\01. Train.pdb
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.AssemblyInfoInputs.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.AssemblyInfo.cs
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.dll
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\01. Train\obj\Debug\netcoreapp2.1\01. Train.pdb

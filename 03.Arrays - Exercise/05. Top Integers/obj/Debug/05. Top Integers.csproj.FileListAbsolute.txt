@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\05. Top Integers\bin\Debug\_05.Top_Integers.exe.config
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\05. Top Integers\bin\Debug\_05.Top_Integers.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\05. Top Integers\bin\Debug\_05.Top_Integers.pdb
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\05. Top Integers\obj\Debug\05. Top Integers.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\05. Top Integers\obj\Debug\05. Top Integers.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\05. Top Integers\obj\Debug\_05.Top_Integers.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\05. Top Integers\obj\Debug\_05.Top_Integers.pdb

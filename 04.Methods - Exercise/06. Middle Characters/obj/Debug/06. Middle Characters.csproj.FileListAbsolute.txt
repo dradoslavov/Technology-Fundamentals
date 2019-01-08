@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\04.Methods - Exercise\06. Middle Characters\bin\Debug\_06.Middle_Characters.exe.config
+D:\C#DifficultExams\tech module\04.Methods - Exercise\06. Middle Characters\bin\Debug\_06.Middle_Characters.exe
+D:\C#DifficultExams\tech module\04.Methods - Exercise\06. Middle Characters\bin\Debug\_06.Middle_Characters.pdb
+D:\C#DifficultExams\tech module\04.Methods - Exercise\06. Middle Characters\obj\Debug\06. Middle Characters.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\04.Methods - Exercise\06. Middle Characters\obj\Debug\06. Middle Characters.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\04.Methods - Exercise\06. Middle Characters\obj\Debug\_06.Middle_Characters.exe
+D:\C#DifficultExams\tech module\04.Methods - Exercise\06. Middle Characters\obj\Debug\_06.Middle_Characters.pdb

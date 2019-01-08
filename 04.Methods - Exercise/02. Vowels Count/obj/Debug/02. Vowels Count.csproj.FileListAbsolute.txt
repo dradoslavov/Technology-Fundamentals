@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\04.Methods - Exercise\02. Vowels Count\bin\Debug\_02.Vowels_Count.exe.config
+D:\C#DifficultExams\tech module\04.Methods - Exercise\02. Vowels Count\bin\Debug\_02.Vowels_Count.exe
+D:\C#DifficultExams\tech module\04.Methods - Exercise\02. Vowels Count\bin\Debug\_02.Vowels_Count.pdb
+D:\C#DifficultExams\tech module\04.Methods - Exercise\02. Vowels Count\obj\Debug\02. Vowels Count.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\04.Methods - Exercise\02. Vowels Count\obj\Debug\02. Vowels Count.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\04.Methods - Exercise\02. Vowels Count\obj\Debug\_02.Vowels_Count.exe
+D:\C#DifficultExams\tech module\04.Methods - Exercise\02. Vowels Count\obj\Debug\_02.Vowels_Count.pdb

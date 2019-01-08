@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\04.Methods - Exercise\05. Add and Subtract\bin\Debug\_05.Add_and_Subtract.exe.config
+D:\C#DifficultExams\tech module\04.Methods - Exercise\05. Add and Subtract\bin\Debug\_05.Add_and_Subtract.exe
+D:\C#DifficultExams\tech module\04.Methods - Exercise\05. Add and Subtract\bin\Debug\_05.Add_and_Subtract.pdb
+D:\C#DifficultExams\tech module\04.Methods - Exercise\05. Add and Subtract\obj\Debug\05. Add and Subtract.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\04.Methods - Exercise\05. Add and Subtract\obj\Debug\05. Add and Subtract.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\04.Methods - Exercise\05. Add and Subtract\obj\Debug\_05.Add_and_Subtract.exe
+D:\C#DifficultExams\tech module\04.Methods - Exercise\05. Add and Subtract\obj\Debug\_05.Add_and_Subtract.pdb

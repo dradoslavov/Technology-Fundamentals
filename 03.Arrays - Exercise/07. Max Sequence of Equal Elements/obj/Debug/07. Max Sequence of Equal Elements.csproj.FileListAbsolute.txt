@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\07. Max Sequence of Equal Elements.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\_07.Max_Sequence_of_Equal_Elements.exe.config
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\_07.Max_Sequence_of_Equal_Elements.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\_07.Max_Sequence_of_Equal_Elements.pdb
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\_07.Max_Sequence_of_Equal_Elements.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\_07.Max_Sequence_of_Equal_Elements.pdb

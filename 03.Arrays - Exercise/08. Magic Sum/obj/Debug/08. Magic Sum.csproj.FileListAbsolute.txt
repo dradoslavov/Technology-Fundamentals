@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\08. Magic Sum\bin\Debug\_08.Magic_Sum.exe.config
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\08. Magic Sum\bin\Debug\_08.Magic_Sum.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\08. Magic Sum\bin\Debug\_08.Magic_Sum.pdb
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\08. Magic Sum\obj\Debug\08. Magic Sum.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\08. Magic Sum\obj\Debug\08. Magic Sum.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\08. Magic Sum\obj\Debug\_08.Magic_Sum.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\08. Magic Sum\obj\Debug\_08.Magic_Sum.pdb

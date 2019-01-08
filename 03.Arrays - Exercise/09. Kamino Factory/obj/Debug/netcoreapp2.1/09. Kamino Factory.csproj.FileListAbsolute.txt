@@ -1,0 +1,11 @@
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.deps.json
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.runtimeconfig.json
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.runtimeconfig.dev.json
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.dll
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.pdb
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.AssemblyInfoInputs.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.AssemblyInfo.cs
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.dll
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.pdb

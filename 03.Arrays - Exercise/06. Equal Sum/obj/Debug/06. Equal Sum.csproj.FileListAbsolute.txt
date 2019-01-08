@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\06. Equal Sum\bin\Debug\_06.Equal_Sum.exe.config
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\06. Equal Sum\bin\Debug\_06.Equal_Sum.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\06. Equal Sum\bin\Debug\_06.Equal_Sum.pdb
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\06. Equal Sum\obj\Debug\06. Equal Sum.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\06. Equal Sum\obj\Debug\06. Equal Sum.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\06. Equal Sum\obj\Debug\_06.Equal_Sum.exe
+D:\C#DifficultExams\tech module\03.Arrays - Exercise\06. Equal Sum\obj\Debug\_06.Equal_Sum.pdb

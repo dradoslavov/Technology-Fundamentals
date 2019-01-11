@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\05.Lists - Exercise\03. House Party\bin\Debug\_03.House_Party.exe.config
+D:\C#DifficultExams\tech module\05.Lists - Exercise\03. House Party\bin\Debug\_03.House_Party.exe
+D:\C#DifficultExams\tech module\05.Lists - Exercise\03. House Party\bin\Debug\_03.House_Party.pdb
+D:\C#DifficultExams\tech module\05.Lists - Exercise\03. House Party\obj\Debug\03. House Party.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\05.Lists - Exercise\03. House Party\obj\Debug\03. House Party.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\05.Lists - Exercise\03. House Party\obj\Debug\_03.House_Party.exe
+D:\C#DifficultExams\tech module\05.Lists - Exercise\03. House Party\obj\Debug\_03.House_Party.pdb

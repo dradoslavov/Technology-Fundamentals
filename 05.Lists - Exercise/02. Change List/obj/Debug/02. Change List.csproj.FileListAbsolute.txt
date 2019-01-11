@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\05.Lists - Exercise\02. Change List\bin\Debug\_02.Change_List.exe.config
+C:\Users\dimit\source\repos\05.Lists - Exercise\02. Change List\bin\Debug\_02.Change_List.exe
+C:\Users\dimit\source\repos\05.Lists - Exercise\02. Change List\bin\Debug\_02.Change_List.pdb
+C:\Users\dimit\source\repos\05.Lists - Exercise\02. Change List\obj\Debug\02. Change List.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\05.Lists - Exercise\02. Change List\obj\Debug\02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\05.Lists - Exercise\02. Change List\obj\Debug\_02.Change_List.exe
+C:\Users\dimit\source\repos\05.Lists - Exercise\02. Change List\obj\Debug\_02.Change_List.pdb

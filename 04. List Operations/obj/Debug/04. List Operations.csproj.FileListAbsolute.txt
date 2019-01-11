@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\05.Lists - Exercise\04. List Operations\bin\Debug\_04.List_Operations.exe.config
+D:\C#DifficultExams\tech module\05.Lists - Exercise\04. List Operations\bin\Debug\_04.List_Operations.exe
+D:\C#DifficultExams\tech module\05.Lists - Exercise\04. List Operations\bin\Debug\_04.List_Operations.pdb
+D:\C#DifficultExams\tech module\05.Lists - Exercise\04. List Operations\obj\Debug\04. List Operations.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\05.Lists - Exercise\04. List Operations\obj\Debug\04. List Operations.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\05.Lists - Exercise\04. List Operations\obj\Debug\_04.List_Operations.exe
+D:\C#DifficultExams\tech module\05.Lists - Exercise\04. List Operations\obj\Debug\_04.List_Operations.pdb

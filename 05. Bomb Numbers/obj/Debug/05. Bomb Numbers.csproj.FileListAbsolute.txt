@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\05.Lists - Exercise\05. Bomb Numbers\bin\Debug\_05.Bomb_Numbers.exe.config
+D:\C#DifficultExams\tech module\05.Lists - Exercise\05. Bomb Numbers\bin\Debug\_05.Bomb_Numbers.exe
+D:\C#DifficultExams\tech module\05.Lists - Exercise\05. Bomb Numbers\bin\Debug\_05.Bomb_Numbers.pdb
+D:\C#DifficultExams\tech module\05.Lists - Exercise\05. Bomb Numbers\obj\Debug\05. Bomb Numbers.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\05.Lists - Exercise\05. Bomb Numbers\obj\Debug\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\05.Lists - Exercise\05. Bomb Numbers\obj\Debug\_05.Bomb_Numbers.exe
+D:\C#DifficultExams\tech module\05.Lists - Exercise\05. Bomb Numbers\obj\Debug\_05.Bomb_Numbers.pdb

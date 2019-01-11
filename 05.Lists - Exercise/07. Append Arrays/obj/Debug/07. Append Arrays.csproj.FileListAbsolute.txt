@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\05.Lists - Exercise\07. Append Arrays\bin\Debug\_07.Append_Arrays.exe.config
+D:\C#DifficultExams\tech module\05.Lists - Exercise\07. Append Arrays\bin\Debug\_07.Append_Arrays.exe
+D:\C#DifficultExams\tech module\05.Lists - Exercise\07. Append Arrays\bin\Debug\_07.Append_Arrays.pdb
+D:\C#DifficultExams\tech module\05.Lists - Exercise\07. Append Arrays\obj\Debug\07. Append Arrays.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\05.Lists - Exercise\07. Append Arrays\obj\Debug\07. Append Arrays.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\05.Lists - Exercise\07. Append Arrays\obj\Debug\_07.Append_Arrays.exe
+D:\C#DifficultExams\tech module\05.Lists - Exercise\07. Append Arrays\obj\Debug\_07.Append_Arrays.pdb

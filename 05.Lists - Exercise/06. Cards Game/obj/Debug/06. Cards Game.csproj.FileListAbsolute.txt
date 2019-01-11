@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\05.Lists - Exercise\06. Cards Game\bin\Debug\_06.Cards_Game.exe.config
+D:\C#DifficultExams\tech module\05.Lists - Exercise\06. Cards Game\bin\Debug\_06.Cards_Game.exe
+D:\C#DifficultExams\tech module\05.Lists - Exercise\06. Cards Game\bin\Debug\_06.Cards_Game.pdb
+D:\C#DifficultExams\tech module\05.Lists - Exercise\06. Cards Game\obj\Debug\06. Cards Game.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\05.Lists - Exercise\06. Cards Game\obj\Debug\06. Cards Game.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\05.Lists - Exercise\06. Cards Game\obj\Debug\_06.Cards_Game.exe
+D:\C#DifficultExams\tech module\05.Lists - Exercise\06. Cards Game\obj\Debug\_06.Cards_Game.pdb

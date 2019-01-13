@@ -1,0 +1,11 @@
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.deps.json
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.runtimeconfig.json
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.runtimeconfig.dev.json
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.dll
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.pdb
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.AssemblyInfoInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.AssemblyInfo.cs
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.dll
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.pdb

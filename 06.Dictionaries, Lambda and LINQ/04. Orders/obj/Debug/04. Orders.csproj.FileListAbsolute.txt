@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\04. Orders\bin\Debug\_04.Orders.exe.config
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\04. Orders\bin\Debug\_04.Orders.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\04. Orders\bin\Debug\_04.Orders.pdb
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\04. Orders\obj\Debug\04. Orders.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\04. Orders\obj\Debug\04. Orders.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\04. Orders\obj\Debug\_04.Orders.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\04. Orders\obj\Debug\_04.Orders.pdb

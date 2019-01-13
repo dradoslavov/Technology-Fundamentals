@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\02. A Miner Task\bin\Debug\_02.A_Miner_Task.exe.config
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\02. A Miner Task\bin\Debug\_02.A_Miner_Task.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\02. A Miner Task\bin\Debug\_02.A_Miner_Task.pdb
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\02. A Miner Task.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\02. A Miner Task.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\_02.A_Miner_Task.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\_02.A_Miner_Task.pdb

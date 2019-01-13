@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\03. Legendary Farming\bin\Debug\_03.Legendary_Farming.exe.config
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\03. Legendary Farming\bin\Debug\_03.Legendary_Farming.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\03. Legendary Farming\bin\Debug\_03.Legendary_Farming.pdb
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\03. Legendary Farming\obj\Debug\03. Legendary Farming.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\03. Legendary Farming\obj\Debug\03. Legendary Farming.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\03. Legendary Farming\obj\Debug\_03.Legendary_Farming.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\03. Legendary Farming\obj\Debug\_03.Legendary_Farming.pdb

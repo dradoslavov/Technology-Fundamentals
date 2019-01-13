@@ -1,0 +1,11 @@
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.AssemblyInfoInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.AssemblyInfo.cs
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.deps.json
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.runtimeconfig.json
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.runtimeconfig.dev.json
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.dll
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.pdb
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.dll
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.pdb

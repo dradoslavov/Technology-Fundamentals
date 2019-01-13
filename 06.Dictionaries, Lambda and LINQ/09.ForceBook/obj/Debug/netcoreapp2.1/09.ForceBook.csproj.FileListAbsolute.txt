@@ -1,0 +1,11 @@
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.deps.json
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.runtimeconfig.json
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.runtimeconfig.dev.json
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.dll
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\bin\Debug\netcoreapp2.1\09.ForceBook.pdb
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.AssemblyInfoInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.AssemblyInfo.cs
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.dll
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\09.ForceBook\obj\Debug\netcoreapp2.1\09.ForceBook.pdb

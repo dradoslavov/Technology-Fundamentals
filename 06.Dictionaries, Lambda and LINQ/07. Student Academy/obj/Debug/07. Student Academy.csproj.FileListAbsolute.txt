@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\07. Student Academy\bin\Debug\_07.Student_Academy.exe.config
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\07. Student Academy\bin\Debug\_07.Student_Academy.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\07. Student Academy\bin\Debug\_07.Student_Academy.pdb
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\07. Student Academy\obj\Debug\07. Student Academy.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\07. Student Academy\obj\Debug\07. Student Academy.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\07. Student Academy\obj\Debug\_07.Student_Academy.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\07. Student Academy\obj\Debug\_07.Student_Academy.pdb

@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\10. SoftUni Exam Results\bin\Debug\_10.SoftUni_Exam_Results.exe.config
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\10. SoftUni Exam Results\bin\Debug\_10.SoftUni_Exam_Results.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\10. SoftUni Exam Results\bin\Debug\_10.SoftUni_Exam_Results.pdb
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\10. SoftUni Exam Results\obj\Debug\10. SoftUni Exam Results.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\10. SoftUni Exam Results\obj\Debug\10. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\10. SoftUni Exam Results\obj\Debug\_10.SoftUni_Exam_Results.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\10. SoftUni Exam Results\obj\Debug\_10.SoftUni_Exam_Results.pdb

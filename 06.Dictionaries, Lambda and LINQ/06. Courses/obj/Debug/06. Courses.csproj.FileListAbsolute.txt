@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\06. Courses\bin\Debug\_06.Courses.exe.config
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\06. Courses\bin\Debug\_06.Courses.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\06. Courses\bin\Debug\_06.Courses.pdb
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\06. Courses\obj\Debug\06. Courses.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\06. Courses\obj\Debug\06. Courses.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\06. Courses\obj\Debug\_06.Courses.exe
+D:\C#DifficultExams\tech module\06.Dictionaries, Lambda and LINQ\06. Courses\obj\Debug\_06.Courses.pdb

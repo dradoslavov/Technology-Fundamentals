@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\_06.Vehicle_Catalogue.exe.config
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\_06.Vehicle_Catalogue.exe
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\_06.Vehicle_Catalogue.pdb
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\06. Vehicle Catalogue.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\_06.Vehicle_Catalogue.exe
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\_06.Vehicle_Catalogue.pdb

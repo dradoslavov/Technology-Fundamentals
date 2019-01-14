@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\02. Articles\obj\Debug\02. Articles.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\02. Articles\obj\Debug\02. Articles.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\02. Articles\bin\Debug\_02.Articles.exe.config
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\02. Articles\bin\Debug\_02.Articles.exe
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\02. Articles\bin\Debug\_02.Articles.pdb
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\02. Articles\obj\Debug\_02.Articles.exe
+D:\C#DifficultExams\tech module\07.Objects and Classes - Exercise\02. Articles\obj\Debug\_02.Articles.pdb

@@ -1,0 +1,7 @@
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\09. Rage Quit\bin\Debug\_09.Rage_Quit.exe.config
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\09. Rage Quit\bin\Debug\_09.Rage_Quit.exe
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\09. Rage Quit\bin\Debug\_09.Rage_Quit.pdb
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\09. Rage Quit\obj\Debug\09. Rage Quit.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\09. Rage Quit\obj\Debug\09. Rage Quit.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\09. Rage Quit\obj\Debug\_09.Rage_Quit.exe
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\09. Rage Quit\obj\Debug\_09.Rage_Quit.pdb

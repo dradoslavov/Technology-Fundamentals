@@ -1,0 +1,22 @@
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.1\10. Winning Ticket.deps.json
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.1\10. Winning Ticket.runtimeconfig.json
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.1\10. Winning Ticket.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.1\10. Winning Ticket.dll
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.1\10. Winning Ticket.pdb
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.AssemblyInfo.cs
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.dll
+C:\Users\dimit\source\repos\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.pdb
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.1\10. Winning Ticket.deps.json
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.1\10. Winning Ticket.runtimeconfig.json
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.1\10. Winning Ticket.runtimeconfig.dev.json
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.1\10. Winning Ticket.dll
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\bin\Debug\netcoreapp2.1\10. Winning Ticket.pdb
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.csprojAssemblyReference.cache
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.csproj.CoreCompileInputs.cache
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.AssemblyInfoInputs.cache
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.AssemblyInfo.cs
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.dll
+D:\C#DifficultExams\tech module\08.Strings and Text Processing - Exercise\10. Winning Ticket\obj\Debug\netcoreapp2.1\10. Winning Ticket.pdb
